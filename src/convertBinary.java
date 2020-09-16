@@ -13,11 +13,6 @@ public class convertBinary {
   public int binaryStringToInt(String numString) {
     return 0;
   }
-  
-  // Given a number in base 10, 
-  //   return a string containing the binary representation.
-  public String intToBinaryString(int numValue) {
-    return "";
-  }
+
 
 }
