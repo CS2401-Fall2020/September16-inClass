@@ -1,6 +1,6 @@
 
 public class convertBinary {
-
+   
   public static void main(String[] args) {
     System.out.println(binaryStringToInt("1010"));
     System.out.println(binaryStringToInt("1111"));
